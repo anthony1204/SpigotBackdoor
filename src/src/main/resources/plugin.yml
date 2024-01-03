@@ -1,0 +1,7 @@
+name: Antho-anticheat-beta
+version: '${project.version}'
+main: com.antho.anthoanticheatbeta.main
+api-version: '1.20'
+commands:
+  aac:
+    description: gets the AnthoAntiCheat (in beta) version
